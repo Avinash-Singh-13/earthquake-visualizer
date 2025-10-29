@@ -21,10 +21,10 @@ npm install
 npm start
 
 ## 🌐 Live Demo
-(https://earthquake-visualizer-amber.vercel.app)
+[https://earthquake-visualizer-amber.vercel.app](https://earthquake-visualizer-amber.vercel.app)
 
 ## 🧠 API Reference
-(https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
+[USGS Earthquake Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
 
 ## 🧑‍💻 Author
 Avinash Singh  

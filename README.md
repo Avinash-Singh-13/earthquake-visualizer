@@ -1,12 +1,31 @@
-# Earthquake Visualizer
+# 🌎 Earthquake Visualizer
 
-Interactive map visualizing earthquakes from USGS (last 24 hours).
+An interactive web app that visualizes real-time earthquake activity worldwide.
 
-## Links
-- Live demo: <PASTE_VERCEL_OR_CODESANDBOX_LINK>
-- ChatGPT conversation: <PASTE_CHATGPT_SHARE_LINK>
-- Repo: https://github.com/YOUR_USERNAME/earthquake-visualizer
+## 🔧 Tech Stack
+- React + Vite (or Create React App)
+- Tailwind CSS
+- React Leaflet + OpenStreetMap
+- Axios
+- USGS Earthquake API
 
-## Run locally
-1. npm install
-2. npm start
+## 🚀 Features
+- Real-time data from USGS
+- Interactive map with markers
+- Popup details (magnitude, location, time)
+- Responsive design
+- Error & loading handling
+
+## 📦 Installation
+npm install  
+npm start
+
+## 🌐 Live Demo
+(https://earthquake-visualizer-amber.vercel.app)
+
+## 🧠 API Reference
+(https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
+
+## 🧑‍💻 Author
+Avinash Singh  
+[LinkedIn](https://linkedin.com/in/avinash-singh-6b2a362a5/) | [GitHub](https://github.com/Avinash-Singh-13)
